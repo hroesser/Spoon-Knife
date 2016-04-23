@@ -39,6 +39,10 @@ HTML5, CSS3 Frontend design inspired by 'PubNub Channel Presence' https://github
  - supports newer browsers
  - testet locally on Firefox 45, Opera 36, Chrome 48 on Ubuntu 12
 
+### Running
+after installing, run 'node server.js' on console, then point your browser(s) on your machine to 
+http://127.0.0.1:8080/. The app makes heavy use of *console.log()* both server- and clientside. throw it off if you'd like to
+
 ## Install:
 npm install
 
