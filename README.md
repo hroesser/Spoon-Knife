@@ -12,4 +12,33 @@ these are the changes by me, Wedn 20.04.2016.
 # 1 raute
 these are other changes , Fr 22.04.2016.
 
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+## Nodejs Chat
+A simple Chat application based on node.js, socket.io, featuring: 
+ - simple Login by Username (no pwd)
+ - public and also private messages
+
+ - simple digital clock on top/left
+
+Server messages:
+ - login/logoff user activity messages of user  in the top left panel
+ - Status messages for the user in the top panel 
+ - Chat status message (READY,ERR,CHAT) left beside the status panel 
+
+ - List of current online users in the lower left panel which are
+ - marked green for user itself,
+ - marked red for a user in a current PM conversation with
+
+## Frontend  
+HTML5, CSS3 Frontend design inspired by 'PubNub Channel Presence' https://github.com/pubnub/pubnub-chat-channel-presence
+ - supports newer browsers
+ - testet locally on Firefox 45, Opera 36, Chrome 48 on Ubuntu 12
+
+## Install:
+npm install
+
+## Bugs/Issues
+a few major issues to be fixed are:
+ - fix chat input bar content when send/receive PM 
+ - sort the	multilingualism german/english
+ - etc..
+
