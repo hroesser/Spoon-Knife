@@ -6,6 +6,12 @@ Creating a *fork* is producing a personal copy of someone else's project. Forks 
 
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
+#### 4 raute
+these are 4...
+
+### 3 raute
+these are 3 ...
+
 ## 2 raute
 these are the changes by me, Wedn 20.04.2016.
 
