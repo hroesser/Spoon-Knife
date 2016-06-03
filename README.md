@@ -29,7 +29,11 @@ HTML5, CSS3 Frontend design inspired by 'PubNub Channel Presence' https://github
 this software is for experimental and maybe tutorial use only, not for professional or commercial use. Use it at your own risk! 
 
 ### Install:
-`npm install`
+`npm install
+grunt
+etc.
+shell
+`
 
 ### Running
 after installing, run `node server.js` on console, then point your browser(s) on your machine to 
